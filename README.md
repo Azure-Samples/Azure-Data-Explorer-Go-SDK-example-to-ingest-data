@@ -5,7 +5,7 @@ languages:
 products:
 - azure
 description: "Sample to demonstrate how to ingest (load) data into Azure Data Explorer using the Go SDK"
-urlFragment: cognitive-services-personalizer-samples
+urlFragment: Azure-Data-Explorer-Go-SDK-example-to-ingest-data
 ---
 
 # Ingest data using the Azure Data Explorer Go SDK 
@@ -19,11 +19,8 @@ You will start by using the sample program to create a table and data mapping in
 ### Prerequisites
 
 * If you don't have an Azure subscription, create a [free Azure account](https://azure.microsoft.com/free/?WT.mc_id=adxgo-docs-abhishgu) before you begin.
-
 * You need [Go](https://golang.org/) installed on your computer. The [Go SDK requires Go 1.13](https://docs.microsoft.com/azure/data-explorer/kusto/api/golang/kusto-golang-client-library?WT.mc_id=adxgo-docs-abhishgu#minimum-requirements) as a minimum version
-
 * [A test cluster and database](create-cluster-database-portal.md)
-
 * You need [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed on your computer
 
 
